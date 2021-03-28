@@ -17,3 +17,5 @@ yarn server
 ## Tecnologias Utilizadas
 - [React](https://pt-br.reactjs.org/)
 
+
+![](/public/screenshots/watchme.png)
